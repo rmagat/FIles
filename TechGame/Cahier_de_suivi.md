@@ -25,7 +25,7 @@
 - Développer des tâches Android et monter en compétences.
 
 #### f. P6
-- Développer des tâches Android et monter en compétences.
+- Développer des tâches Android eÓt monter en compétences.
 
 ### 2. Etat des lieux en fin de périodes
 
@@ -51,10 +51,19 @@ Toutes les maquettes réalisées avec validation du PO et grace à l'aide de deu
 - Développement de la vue de connexion à l’application
 - Développement de la vue de gestion des photos (avec actions galeries et appareils photos).
 
-
+Très bonne monté en compétences sur l'import des photos et ouverture de l'appareils depuis une Application Android.
 
 #### e. P5
-- Développer des tâches Android et monter en compétences.
+- Développer le swipe
+- Développer la descriptions d’une annonce
+- Développer la gestion des filtre de la recherche
+
+Montée en compétences sur de la R&D du swipe. Problème sur l'import des icônes au format SVG.
 
 #### f. P6
-- Développer des tâches Android et monter en compétences.
+- Développer la vue avec la video d'introduction de l'application.
+- Développer la vue du choix de langue et la fonction qui change la langue de l'application.
+
+Montée en compétences sur la fonction de changement de langue.
+
+### 3. Construction et utilisation d’indicateurs

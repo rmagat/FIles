@@ -25,7 +25,7 @@
 - Développer des tâches Android et monter en compétences.
 
 #### f. P6
-- Développer des tâches Android eÓt monter en compétences.
+- Développer des tâches Android et monter en compétences.
 
 ### 2. Etat des lieux en fin de périodes
 
@@ -54,15 +54,16 @@ Toutes les maquettes réalisées avec validation du PO et grace à l'aide de deu
 Très bonne monté en compétences sur l'import des photos et ouverture de l'appareils depuis une Application Android.
 
 #### e. P5
-- Développer le swipe
-- Développer la descriptions d’une annonce
-- Développer la gestion des filtre de la recherche
+- Développement du swipe
+- Développement de la descriptions d’une annonce
+- Développement de la gestion des filtre de la recherche
 
 Montée en compétences sur de la R&D du swipe. Problème sur l'import des icônes au format SVG.
 
 #### f. P6
-- Développer la vue avec la video d'introduction de l'application.
-- Développer la vue du choix de langue et la fonction qui change la langue de l'application.
+- Développement de la vue avec la video d'introduction de l'application.
+- Développement de la vue du choix de langue et la fonction qui change la langue de l'application.
+- Développement de la vue des statistiques d'une annonce.
 
 Montée en compétences sur la fonction de changement de langue.
 
@@ -75,7 +76,7 @@ Montée en compétences sur la fonction de changement de langue.
 | lundi         |10         |Absent     |          |10        |6         |10        |          |          |
 | mardi         |10         |6          |          |10        |6         |10        |          |          |
 | mercredi      |10         |7          |          |10        |7         |10        |          |          |
-| jeudi         |10         |6          |          |10        |5         |          |          |          |
+| jeudi         |10         |6          |          |10        |5         |10        |          |          |
 | vendredi      |10         |6          |          |9         |4         |          |          |          |
 | lundi         |10         |5          |10        |9         |5         |          |          |          |
 | mardi         |10         |7          |9         |8         |5         |          |          |          |
@@ -101,7 +102,7 @@ Montée en compétences sur la fonction de changement de langue.
 | lundi         |           |Absent     |          |5         |6         |8         |          |          |
 | mardi         |           |4          |          |5         |7         |7         |          |          |
 | mercredi      |           |3          |          |6         |7         |6         |          |          |
-| jeudi         |           |4          |          |6         |7         |          |          |          |
+| jeudi         |           |4          |          |6         |7         |7         |          |          |
 | vendredi      |           |4          |          |7         |6         |          |          |          |
 | lundi         |           |3          |7         |6         |6         |          |          |          |
 | mardi         |           |5          |8         |7         |6         |          |          |          |

@@ -3,7 +3,7 @@
 > Dernière mise à jour : 18/04/2018
 
 # **CAHIER DE SUIVI**
-<hr>
+
 ## I. MANAGEMENT ET AUTO MANAGEMENT
 
 ### 1. Fixation d’objectifs en début de périodes
@@ -26,6 +26,7 @@
 
 #### f. P6
 - Développer des tâches Android et monter en compétences.
+- Optimiser le code de mes différentes tâches effectuées.
 
 ### 2. Etat des lieux en fin de périodes
 
@@ -64,8 +65,8 @@ Montée en compétences sur de la R&D du swipe. Problème sur l'import des icôn
 - Développement de la vue avec la video d'introduction de l'application.
 - Développement de la vue du choix de langue et la fonction qui change la langue de l'application.
 - Développement de la vue des statistiques d'une annonce.
-
-Montée en compétences sur la fonction de changement de langue.
+- Résolution du problème des icônes
+- Montée en compétences sur la fonction de changement de langue.
 
 ### 3. Construction et utilisation d’indicateurs
 
@@ -104,6 +105,8 @@ La réalisation de mes tâches a eu aucun impact sur les rendu de fin de periode
 Quelque perte de temps pour trouvé la bonne bibliothèque pour les double spine bar (pour en trouvée une compatible API 21).
 
 #### f. P6
+
+Du retard sur les tâches du au fait de reprendre des tâches précédament terminées pour les optimiser.
 
 ### 2. Conclusion
 

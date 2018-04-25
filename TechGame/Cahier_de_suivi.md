@@ -69,57 +69,11 @@ Montée en compétences sur la fonction de changement de langue.
 
 ### 3. Construction et utilisation d’indicateurs
 
-#### a. Motivation par période sur 10
+![alt text](motivation.png "Title")
 
-| Jours         | Notes P1  | Notes P2  |Notes P3  |Notes P4  |Notes P5  |Notes P6  |Notes P7  |Notes P8  |
-| ------------- |:---------:|:---------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| lundi         |10         |Absent     |          |10        |6         |10        |          |          |
-| mardi         |10         |6          |          |10        |6         |10        |          |          |
-| mercredi      |10         |7          |          |10        |7         |10        |          |          |
-| jeudi         |10         |6          |          |10        |5         |10        |          |          |
-| vendredi      |10         |6          |          |9         |4         |          |          |          |
-| lundi         |10         |5          |10        |9         |5         |          |          |          |
-| mardi         |10         |7          |9         |8         |5         |          |          |          |
-| mercredi      |10         |6          |9         |8         |6         |          |          |          |
-| jeudi         |8          |7          |8         |9         |6         |          |          |          |
-| vendredi      |9          |7          |10        |7         |5         |          |          |          |
+![alt text](chargeTravail.png "Title")
 
-| Période	|Moyenne|
-| --------- | ----- |       
-| P1	    |9,7    |    
-| P2	    |6,3    |    
-| P3	    |9,2    |    
-| P4	    |9,0    |    
-| P5	    |5,5    |    
-| P6	    |10     |
-| P7	    |       |
-| P8	    |       |
-
-#### b. Moyenne charge de travail par période
-
-| Jours         | Notes P1  | Notes P2  |Notes P3  |Notes P4  |Notes P5  |Notes P6  |Notes P7  |Notes P8  |
-| ------------- |:---------:|:---------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| lundi         |           |Absent     |          |5         |6         |8         |          |          |
-| mardi         |           |4          |          |5         |7         |7         |          |          |
-| mercredi      |           |3          |          |6         |7         |6         |          |          |
-| jeudi         |           |4          |          |6         |7         |7         |          |          |
-| vendredi      |           |4          |          |7         |6         |          |          |          |
-| lundi         |           |3          |7         |6         |6         |          |          |          |
-| mardi         |           |5          |8         |7         |6         |          |          |          |
-| mercredi      |6          |3          |8         |6         |6         |          |          |          |
-| jeudi         |6          |3          |8         |7         |6         |          |          |          |
-| vendredi      |7          |5          |9         |7         |6         |          |          |          |
-
-| Période	|Moyenne| Charge idéal MIN | Charge idéal MAX |
-| --------- | ----- | ---------------- | ---------------- |
-| P1	    |9,7    |4                 |6                 |
-| P2	    |6,3    |4                 |6                 |
-| P3	    |9,2    |4                 |6                 |
-| P4	    |9,0    |4                 |6                 |
-| P5	    |5,5    |4                 |6                 |
-| P6	    |10     |4                 |6                 |
-| P7	    |       |4                 |6                 |
-| P8	    |       |4                 |6                 |
+![alt text](taches.png "Title")
 
 ## II. ANALYSE
 
